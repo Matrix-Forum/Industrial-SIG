@@ -20,7 +20,7 @@ This repository is a directory for a variety of machine interface protocols
 
 8. [LWM2M](LWM2M.md)
 
-9. [DeviceNET](DevceNET.md)
+9. [DeviceNET](DeviceNET.md)
 
 10. [CC-LINK-IE](CC-LINK-IE.md)
 
