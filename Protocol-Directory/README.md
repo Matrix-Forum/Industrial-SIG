@@ -1,8 +1,8 @@
-# Industrial IoT Protocol Directory
+# Industrial IoT Protocol Knowledge
 
 Lists all main machine interface protocols and links to get more information										
 
-This repository is a directory for a variety of machine interface protocols 
+This repository is an open source knowledgebase of a variety of machine interface protocols used in Industrial IoT. 
 
 1. [MODBUS](MODBUS.md)
 
